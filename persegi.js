@@ -11,6 +11,4 @@ console.log(`luas persegi : ${ luas.toFixed(2) } cm`);
 console.log(`keliling persegi : ${ keliling.toFixed(2) } cm`);
 console.log(
 `luas persegi\t\t:  ${ luas.toFixed(2) } cm2
-    keliling persegi\t:  ${ keliling.toFixed(2) } cm`
-);
-232323
+    keliling persegi\t:  ${ keliling.toFixed(2) } cm`);
